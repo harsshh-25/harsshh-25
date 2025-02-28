@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hey there! I'm Harsh Kumar<br>🚀 3rd-year B.Tech student | 💻 Passionate Coder | 🎯 Competitive Programming Enthusiast<br>✨ About Me<br>🔥 Love solving coding challenges & exploring Data Structures & Algorithms<br>🎯 Actively solving problems on Coding Ninjas & other platforms<br>🚀 Interested in Competitive Programming & Software Development<br>💡 Currently working on improving problem-solving skills & learning new tech<br><br>🔧 Tech Stack<br>💻 Languages: C++, Python, Java<br>📚 DSA & Problem-Solving<br><br>🚀 Let's Connect!<br>💼 LinkedIn | 📝 Coding Ninjas 
+👋 Hey there! I'm Harsh Kumar<br>🚀 3rd-year B.Tech student | 💻 Passionate Coder | 🎯 Competitive Programming Enthusiast<br>
+✨ About Me<br>🔥 Love solving coding challenges & exploring Data Structures & Algorithms<br>🎯 Actively solving problems on Coding Ninjas & other platforms<br>🚀 Interested in Competitive Programming & Software Development<br>💡 Currently working on improving problem-solving skills & learning new tech<br><br>🔧 Tech Stack<br>💻 Languages: C++, Python, Java<br>📚 DSA & Problem-Solving<br><br>🚀 Let's Connect!<br>💼 LinkedIn | 📝 Coding Ninjas 
 
 
 ## 🌐 Socials:
